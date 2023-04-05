@@ -1,3 +1,3 @@
 # electronfun
 
-lets have some electronfun://
+lets have some [electronfun://](electronfun://)
